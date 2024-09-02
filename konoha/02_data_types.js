@@ -27,5 +27,6 @@ console.log(typeof 'ks')
 console.log(typeof age )
 console.log(typeof null) //output type is object
 console.log(typeof undefined) //output type is undefined
-
+ console.log("gg");
+ 
 
