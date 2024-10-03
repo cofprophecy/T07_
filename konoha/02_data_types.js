@@ -1,4 +1,4 @@
-"use strict"; //treat all JS code as newer version
+"use strict";//treat all JS code as newer version
 
 // alert(3+3)  // we are using nodejs,not browser
 
@@ -10,6 +10,7 @@ let name = "sasuke"
 let age = 19
 let is_logged_in = false
 let state //undefined
+let state3 = null
 let state2 = '' // kinda like 0
 
 //1. primitive datatypes
@@ -30,3 +31,5 @@ console.log(typeof undefined) //output type is undefined
  console.log("gg");
  
 
+
+/*null's type is object*/
