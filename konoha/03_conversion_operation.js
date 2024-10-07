@@ -50,7 +50,6 @@ let negValue = -value
 // console.log(2**32);
 // console.log(2/2);
 // console.log(2%3);
-
 let str1 = "hfv"
 let str2= " u"
 
