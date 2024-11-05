@@ -1,11 +1,10 @@
-console.log("kakashi")
-const account_id = 12345
+console.log("kakashi")                       
+const account_id = 12345    
 let account_email = 'konoha@gmail.com'
 var account_password = '15874'
 account_city = 'leaf'
 
 let account_state     
-
 
 // account_id = 2    // not allowed
 

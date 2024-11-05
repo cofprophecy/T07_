@@ -18,6 +18,7 @@ console.log(value_in_number)
 //boolean[true or false] = 1 or 0
 //string = Nan
 
+
 let is_logged_in =  1
 
 let boolean_is_logged_in = Boolean(is_logged_in)
@@ -36,7 +37,7 @@ let string_some_number = String(some_number)
 console.log(string_some_number);
 console.log(typeof(string_some_number));
 
-// * operations 
+// ******************* operations **************
 
 let value = 3
 let negValue = -value
@@ -62,11 +63,13 @@ let str3= str1+str2
 // console.log("1"+2+2);
 // console.log(1+2+"2");
 
-// console.log(3 + 4 * 5 % 3);
+// console.log((3 + 4) * 5 % 3);
 
 
 // console.log(true)
 // console.log(+true);
+// console.log(+""); // it is doing cpversion because of plus
+
 // console.log(="");
 
 let num1,num2,num3 
@@ -75,6 +78,7 @@ num1 = num2 = num3 = 2+2
 
 let game_counter = 100
 ++game_counter
+game_counter++
 
 
 
