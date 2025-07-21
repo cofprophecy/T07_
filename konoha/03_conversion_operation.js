@@ -1,7 +1,7 @@
 let score = "33abc"
 
 console.log(typeof score)
-console.log(typeof score)
+console.log(typeof (score))
 
 let value_in_number = Number(score)
 
@@ -28,8 +28,8 @@ console.log(boolean_is_logged_in);
 //here in boolean
 // 1 => true
 // 0 => false
-// "" => false
-// " ks " => true
+// "" => false (empty string)
+// " ks " => true (if something)
 
 let some_number = 33
 
@@ -50,7 +50,7 @@ let negValue = -value
 // console.log(2**2);
 // console.log(2**32);
 // console.log(2/2);
-// console.log(2%3);
+console.log(2%3);
 let str1 = "hfv"
 let str2= " u"
 
@@ -81,17 +81,4 @@ let game_counter = 100
 game_counter++
 
 
-
 console.log(game_counter);
-
-
-
-
-
-
-
-
-
-
-
-
